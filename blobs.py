@@ -12,3 +12,5 @@ if 1<= N<= 1000:
                 break
                 
 else: exit()
+    
+    #https://github.com/potigol/beecrowd
