@@ -1,0 +1,102 @@
+# Problemas 1000 (0%)
+
+- [ ]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - Hello World! *Iniciante*
+- [ ]  [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - Extremamente Básico *Iniciante*
+- [ ]  [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) - Área do Círculo *Iniciante*
+- [ ]  [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) - Soma Simples *Iniciante*
+- [ ]  [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) - Produto Simples *Iniciante*
+- [ ]  [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) - Média 1 *Iniciante*
+- [ ]  [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) - Média 2 *Iniciante*
+- [ ]  [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) - Diferença *Iniciante*
+- [ ]  [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) - Salário *Iniciante*
+- [ ]  [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) - Salário com Bônus *Iniciante*
+- [ ]  [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) - Cálculo Simples *Iniciante*
+- [ ]  [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) - Esfera *Iniciante*
+- [ ]  [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) - Área *Iniciante*
+- [ ]  [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - O Maior *Iniciante*
+- [ ]  [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) - Consumo *Iniciante*
+- [ ]  [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - Distância Entre Dois Pontos *Iniciante*
+- [ ]  [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - Distância *Iniciante*
+- [ ]  [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - Gasto de Combustível *Iniciante*
+- [ ]  [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - Cédulas *Iniciante*
+- [ ]  [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) - Conversão de Tempo *Iniciante*
+- [ ]  [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) - Idade em Dias *Iniciante*
+- [ ]  [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) - Notas e Moedas *Iniciante*
+- [ ]  [1022](https://www.beecrowd.com.br/judge/pt/problems/view/1022) - TDA Racional *Estruturas e Bibliotecas*
+- [ ]  [1023](https://www.beecrowd.com.br/judge/pt/problems/view/1023) - Estiagem *Estruturas e Bibliotecas*
+- [ ]  [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) - Criptografia *Strings*
+- [ ]  [1025](https://www.beecrowd.com.br/judge/pt/problems/view/1025) - Onde está o Mármore? *Estruturas e Bibliotecas*
+- [ ]  [1026](https://www.beecrowd.com.br/judge/pt/problems/view/1026) - Carrega ou não Carrega? *Ad-Hoc*
+- [ ]  [1027](https://www.beecrowd.com.br/judge/pt/problems/view/1027) - Onda Crítica *Paradigmas*
+- [ ]  [1028](https://www.beecrowd.com.br/judge/pt/problems/view/1028) - Figurinhas *Matemática*
+- [ ]  [1029](https://www.beecrowd.com.br/judge/pt/problems/view/1029) - Fibonacci, Quantas Chamadas? *Paradigmas*
+- [ ]  [1030](https://www.beecrowd.com.br/judge/pt/problems/view/1030) - A Lenda de Flavious Josephus *Ad-Hoc*
+- [ ]  [1031](https://www.beecrowd.com.br/judge/pt/problems/view/1031) - Crise de Energia *Ad-Hoc*
+- [ ]  [1032](https://www.beecrowd.com.br/judge/pt/problems/view/1032) - O Primo de Josephus *Ad-Hoc*
+- [ ]  [1033](https://www.beecrowd.com.br/judge/pt/problems/view/1033) - Quantas Chamadas Recursivas? *Paradigmas*
+- [ ]  [1034](https://www.beecrowd.com.br/judge/pt/problems/view/1034) - Festival de Estátuas de Gelo *Paradigmas*
+- [ ]  [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - Teste de Seleção 1 *Iniciante*
+- [ ]  [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) - Fórmula de Bhaskara *Iniciante*
+- [ ]  [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) - Intervalo *Iniciante*
+- [ ]  [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) - Lanche *Iniciante*
+- [ ]  [1039](https://www.beecrowd.com.br/judge/pt/problems/view/1039) - Flores de Fogo *Geometria Computacional*
+- [ ]  [1040](https://www.beecrowd.com.br/judge/pt/problems/view/1040) - Média 3 *Iniciante*
+- [ ]  [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) - Coordenadas de um Ponto *Iniciante*
+- [ ]  [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) - Sort Simples *Iniciante*
+- [ ]  [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) - Triângulo *Iniciante*
+- [ ]  [1044](https://www.beecrowd.com.br/judge/pt/problems/view/1044) - Múltiplos *Iniciante*
+- [ ]  [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) - Tipos de Triângulos *Iniciante*
+- [ ]  [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) - Tempo de Jogo *Iniciante*
+- [ ]  [1047](https://www.beecrowd.com.br/judge/pt/problems/view/1047) - Tempo de Jogo com Minutos *Iniciante*
+- [ ]  [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - Aumento de Salário *Iniciante*
+- [ ]  [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) - Animal *Iniciante*
+- [ ]  [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - DDD *Iniciante*
+- [ ]  [1051](https://www.beecrowd.com.br/judge/pt/problems/view/1051) - Imposto de Renda *Iniciante*
+- [ ]  [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) - Mês *Iniciante*
+- [ ]  [1053](https://www.beecrowd.com.br/judge/pt/problems/view/1053) - Desenho Contínuo *Grafos*
+- [ ]  [1054](https://www.beecrowd.com.br/judge/pt/problems/view/1054) - Sapo Dinâmico *Paradigmas*
+- [ ]  [1055](https://www.beecrowd.com.br/judge/pt/problems/view/1055) - Soma Permutada Elegante *Paradigmas*
+- [ ]  [1056](https://www.beecrowd.com.br/judge/pt/problems/view/1056) - Fatores e Múltiplos *Grafos*
+- [ ]  [1057](https://www.beecrowd.com.br/judge/pt/problems/view/1057) - Chegando Junto *Grafos*
+- [ ]  [1058](https://www.beecrowd.com.br/judge/pt/problems/view/1058) - Zonas de Ataque Independentes *Paradigmas*
+- [ ]  [1059](https://www.beecrowd.com.br/judge/pt/problems/view/1059) - Números Pares *Iniciante*
+- [ ]  [1060](https://www.beecrowd.com.br/judge/pt/problems/view/1060) - Números Positivos *Iniciante*
+- [ ]  [1061](https://www.beecrowd.com.br/judge/pt/problems/view/1061) - Tempo de um Evento *Iniciante*
+- [ ]  [1062](https://www.beecrowd.com.br/judge/pt/problems/view/1062) - Trilhos *Estruturas e Bibliotecas*
+- [ ]  [1063](https://www.beecrowd.com.br/judge/pt/problems/view/1063) - Trilhos Novamente... Traçando Movimentos *Estruturas e Bibliotecas*
+- [ ]  [1064](https://www.beecrowd.com.br/judge/pt/problems/view/1064) - Positivos e Média *Iniciante*
+- [ ]  [1065](https://www.beecrowd.com.br/judge/pt/problems/view/1065) - Pares entre Cinco Números *Iniciante*
+- [ ]  [1066](https://www.beecrowd.com.br/judge/pt/problems/view/1066) - Pares, Ímpares, Positivos e Negativos *Iniciante*
+- [ ]  [1067](https://www.beecrowd.com.br/judge/pt/problems/view/1067) - Números Ímpares *Iniciante*
+- [ ]  [1068](https://www.beecrowd.com.br/judge/pt/problems/view/1068) - Balanço de Parênteses I *Estruturas e Bibliotecas*
+- [ ]  [1069](https://www.beecrowd.com.br/judge/pt/problems/view/1069) - Diamantes e Areia *Estruturas e Bibliotecas*
+- [ ]  [1070](https://www.beecrowd.com.br/judge/pt/problems/view/1070) - Seis Números Ímpares *Iniciante*
+- [ ]  [1071](https://www.beecrowd.com.br/judge/pt/problems/view/1071) - Soma de Impares Consecutivos I *Iniciante*
+- [ ]  [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) - Intervalo 2 *Iniciante*
+- [ ]  [1073](https://www.beecrowd.com.br/judge/pt/problems/view/1073) - Quadrado de Pares *Iniciante*
+- [ ]  [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) - Par ou Ímpar *Iniciante*
+- [ ]  [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - Resto 2 *Iniciante*
+- [ ]  [1076](https://www.beecrowd.com.br/judge/pt/problems/view/1076) - Desenhando Labirintos *Grafos*
+- [ ]  [1077](https://www.beecrowd.com.br/judge/pt/problems/view/1077) - Infixa para Posfixa *Estruturas e Bibliotecas*
+- [ ]  [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - Tabuada *Iniciante*
+- [ ]  [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) - Médias Ponderadas *Iniciante*
+- [ ]  [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - Maior e Posição *Iniciante*
+- [ ]  [1081](https://www.beecrowd.com.br/judge/pt/problems/view/1081) - DFSr - Hierarquia de Profundidade *Grafos*
+- [ ]  [1082](https://www.beecrowd.com.br/judge/pt/problems/view/1082) - Componentes Conexos *Grafos*
+- [ ]  [1083](https://www.beecrowd.com.br/judge/pt/problems/view/1083) - LEXSIM - Avaliador Lexico e Sintático *Estruturas e Bibliotecas*
+- [ ]  [1084](https://www.beecrowd.com.br/judge/pt/problems/view/1084) - Apagando e Ganhando *Paradigmas*
+- [ ]  [1085](https://www.beecrowd.com.br/judge/pt/problems/view/1085) - Babel *Grafos*
+- [ ]  [1086](https://www.beecrowd.com.br/judge/pt/problems/view/1086) - O Salão do Clube *Ad-Hoc*
+- [ ]  [1087](https://www.beecrowd.com.br/judge/pt/problems/view/1087) - Dama *Ad-Hoc*
+- [ ]  [1088](https://www.beecrowd.com.br/judge/pt/problems/view/1088) - Bolhas e Baldes *Estruturas e Bibliotecas*
+- [ ]  [1089](https://www.beecrowd.com.br/judge/pt/problems/view/1089) - Loop Musical *Ad-Hoc*
+- [ ]  [1090](https://www.beecrowd.com.br/judge/pt/problems/view/1090) - Set *Ad-Hoc*
+- [ ]  [1091](https://www.beecrowd.com.br/judge/pt/problems/view/1091) - Divisão da Nlogônia *Ad-Hoc*
+- [ ]  [1092](https://www.beecrowd.com.br/judge/pt/problems/view/1092) - Maior Subseqüência Crescente *Ad-Hoc*
+- [ ]  [1093](https://www.beecrowd.com.br/judge/pt/problems/view/1093) - Vampiros *Matemática*
+- [ ]  [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) - Experiências *Iniciante*
+- [ ]  [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - Sequencia IJ 1 *Iniciante*
+- [ ]  [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - Sequencia IJ 2 *Iniciante*
+- [ ]  [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) - Sequencia IJ 3 *Iniciante*
+- [ ]  [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - Sequencia IJ 4 *Iniciante*
+- [ ]  [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) - Soma de Ímpares Consecutivos II *Iniciante*

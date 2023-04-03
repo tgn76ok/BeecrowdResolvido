@@ -1,14 +1,14 @@
-# Grafos (2 / 17)
+# Grafos (0 / 17)
 
 
 
 ## Problemas resolvidos
 
-- [x]  [2428](https://www.beecrowd.com.br/judge/pt/problems/view/2428) - [Capital](https://github.com/potigol/beecrowd/blob/master/src/2400/2428.poti)
-- [x]  [3043](https://www.beecrowd.com.br/judge/pt/problems/view/3043) - [Festa Junina](https://github.com/potigol/beecrowd/blob/master/src/3000/3043.poti)
+
 
 ## Problemas não resolvidos
-
+- [ ]  [2428](https://www.beecrowd.com.br/judge/pt/problems/view/2428) - Capital
+- [ ]  [3043](https://www.beecrowd.com.br/judge/pt/problems/view/3043) - Festa Junina
 - [ ]  [1928](https://www.beecrowd.com.br/judge/pt/problems/view/1928) - Jogo da Memória
 - [ ]  [2190](https://www.beecrowd.com.br/judge/pt/problems/view/2190) - Rede Ótica
 - [ ]  [2300](https://www.beecrowd.com.br/judge/pt/problems/view/2300) - Transmissão de Energia

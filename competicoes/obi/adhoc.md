@@ -1,89 +1,89 @@
-# Ad-Hoc (77 / 172)
+# Ad-Hoc (0 / 172)
 
 
 
 ## Problemas resolvidos
 
-- [x]  [2187](https://www.beecrowd.com.br/judge/pt/problems/view/2187) - [Bits Trocados](https://github.com/potigol/beecrowd/blob/master/src/2100/2187.poti)
-- [x]  [2188](https://www.beecrowd.com.br/judge/pt/problems/view/2188) - [Macaco-prego](https://github.com/potigol/beecrowd/blob/master/src/2100/2188.poti)
-- [x]  [2189](https://www.beecrowd.com.br/judge/pt/problems/view/2189) - [Quermesse](https://github.com/potigol/beecrowd/blob/master/src/2100/2189.poti)
-- [x]  [2247](https://www.beecrowd.com.br/judge/pt/problems/view/2247) - [Cofrinhos da Vó Vitória](https://github.com/potigol/beecrowd/blob/master/src/2200/2247.poti)
-- [x]  [2251](https://www.beecrowd.com.br/judge/pt/problems/view/2251) - [Torres de Hanói](https://github.com/potigol/beecrowd/blob/master/src/2200/2251.poti)
-- [x]  [2286](https://www.beecrowd.com.br/judge/pt/problems/view/2286) - [Par ou Ímpar](https://github.com/potigol/beecrowd/blob/master/src/2200/2286.poti)
-- [x]  [2293](https://www.beecrowd.com.br/judge/pt/problems/view/2293) - [Campo de Minhocas](https://github.com/potigol/beecrowd/blob/master/src/2200/2293.poti)
-- [x]  [2295](https://www.beecrowd.com.br/judge/pt/problems/view/2295) - [Frota de Táxi](https://github.com/potigol/beecrowd/blob/master/src/2200/2295.poti)
-- [x]  [2297](https://www.beecrowd.com.br/judge/pt/problems/view/2297) - [Bafo](https://github.com/potigol/beecrowd/blob/master/src/2200/2297.poti)
-- [x]  [2322](https://www.beecrowd.com.br/judge/pt/problems/view/2322) - [Peça Perdida](https://github.com/potigol/beecrowd/blob/master/src/2300/2322.poti)
-- [x]  [2327](https://www.beecrowd.com.br/judge/pt/problems/view/2327) - [Quadrados](https://github.com/potigol/beecrowd/blob/master/src/2300/2327.poti)
-- [x]  [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - [Chocolate](https://github.com/potigol/beecrowd/blob/master/src/2300/2328.poti)
-- [x]  [2339](https://www.beecrowd.com.br/judge/pt/problems/view/2339) - [Aviões de Papel](https://github.com/potigol/beecrowd/blob/master/src/2300/2339.poti)
-- [x]  [2341](https://www.beecrowd.com.br/judge/pt/problems/view/2341) - [Número de Envelopes](https://github.com/potigol/beecrowd/blob/master/src/2300/2341.poti)
-- [x]  [2342](https://www.beecrowd.com.br/judge/pt/problems/view/2342) - [Overflow](https://github.com/potigol/beecrowd/blob/master/src/2300/2342.poti)
-- [x]  [2369](https://www.beecrowd.com.br/judge/pt/problems/view/2369) - [Conta de Água](https://github.com/potigol/beecrowd/blob/master/src/2300/2369.poti)
-- [x]  [2373](https://www.beecrowd.com.br/judge/pt/problems/view/2373) - [Garçom](https://github.com/potigol/beecrowd/blob/master/src/2300/2373.poti)
-- [x]  [2374](https://www.beecrowd.com.br/judge/pt/problems/view/2374) - [Pneu](https://github.com/potigol/beecrowd/blob/master/src/2300/2374.poti)
-- [x]  [2375](https://www.beecrowd.com.br/judge/pt/problems/view/2375) - [Sedex](https://github.com/potigol/beecrowd/blob/master/src/2300/2375.poti)
-- [x]  [2376](https://www.beecrowd.com.br/judge/pt/problems/view/2376) - [Copa do Mundo](https://github.com/potigol/beecrowd/blob/master/src/2300/2376.poti)
-- [x]  [2377](https://www.beecrowd.com.br/judge/pt/problems/view/2377) - [Pedágio](https://github.com/potigol/beecrowd/blob/master/src/2300/2377.poti)
-- [x]  [2378](https://www.beecrowd.com.br/judge/pt/problems/view/2378) - [Elevador](https://github.com/potigol/beecrowd/blob/master/src/2300/2378.poti)
-- [x]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - [Lista de Chamada](https://github.com/potigol/beecrowd/blob/master/src/2300/2381.poti)
-- [x]  [2382](https://www.beecrowd.com.br/judge/pt/problems/view/2382) - [Sedex Marciano](https://github.com/potigol/beecrowd/blob/master/src/2300/2382.poti)
-- [x]  [2386](https://www.beecrowd.com.br/judge/pt/problems/view/2386) - [Telescópio](https://github.com/potigol/beecrowd/blob/master/src/2300/2386.poti)
-- [x]  [2388](https://www.beecrowd.com.br/judge/pt/problems/view/2388) - [Tacógrafo](https://github.com/potigol/beecrowd/blob/master/src/2300/2388.poti)
-- [x]  [2389](https://www.beecrowd.com.br/judge/pt/problems/view/2389) - [Floresta](https://github.com/potigol/beecrowd/blob/master/src/2300/2389.poti)
-- [x]  [2390](https://www.beecrowd.com.br/judge/pt/problems/view/2390) - [Escada Rolante](https://github.com/potigol/beecrowd/blob/master/src/2300/2390.poti)
-- [x]  [2394](https://www.beecrowd.com.br/judge/pt/problems/view/2394) - [Corrida 1](https://github.com/potigol/beecrowd/blob/master/src/2300/2394.poti)
-- [x]  [2395](https://www.beecrowd.com.br/judge/pt/problems/view/2395) - [Transporte de Contêineres](https://github.com/potigol/beecrowd/blob/master/src/2300/2395.poti)
-- [x]  [2396](https://www.beecrowd.com.br/judge/pt/problems/view/2396) - [Corrida](https://github.com/potigol/beecrowd/blob/master/src/2300/2396.poti)
-- [x]  [2397](https://www.beecrowd.com.br/judge/pt/problems/view/2397) - [Triângulos](https://github.com/potigol/beecrowd/blob/master/src/2300/2397.poti)
-- [x]  [2399](https://www.beecrowd.com.br/judge/pt/problems/view/2399) - [Campo Minado](https://github.com/potigol/beecrowd/blob/master/src/2300/2399.poti)
-- [x]  [2402](https://www.beecrowd.com.br/judge/pt/problems/view/2402) - [Selos](https://github.com/potigol/beecrowd/blob/master/src/2400/2402.poti)
-- [x]  [2408](https://www.beecrowd.com.br/judge/pt/problems/view/2408) - [Vice-Campeão](https://github.com/potigol/beecrowd/blob/master/src/2400/2408.poti)
-- [x]  [2409](https://www.beecrowd.com.br/judge/pt/problems/view/2409) - [Colchão](https://github.com/potigol/beecrowd/blob/master/src/2400/2409.poti)
-- [x]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - [Busca na Internet](https://github.com/potigol/beecrowd/blob/master/src/2400/2413.poti)
-- [x]  [2414](https://www.beecrowd.com.br/judge/pt/problems/view/2414) - [Desafio do Maior Número](https://github.com/potigol/beecrowd/blob/master/src/2400/2414.poti)
-- [x]  [2416](https://www.beecrowd.com.br/judge/pt/problems/view/2416) - [Corrida](https://github.com/potigol/beecrowd/blob/master/src/2400/2416.poti)
-- [x]  [2417](https://www.beecrowd.com.br/judge/pt/problems/view/2417) - [Campeonato](https://github.com/potigol/beecrowd/blob/master/src/2400/2417.poti)
-- [x]  [2418](https://www.beecrowd.com.br/judge/pt/problems/view/2418) - [Carnaval](https://github.com/potigol/beecrowd/blob/master/src/2400/2418.poti)
-- [x]  [2421](https://www.beecrowd.com.br/judge/pt/problems/view/2421) - [Álbum de Fotos](https://github.com/potigol/beecrowd/blob/master/src/2400/2421.poti)
-- [x]  [2422](https://www.beecrowd.com.br/judge/pt/problems/view/2422) - [Soma das Casas](https://github.com/potigol/beecrowd/blob/master/src/2400/2422.poti)
-- [x]  [2423](https://www.beecrowd.com.br/judge/pt/problems/view/2423) - [Receita de Bolo](https://github.com/potigol/beecrowd/blob/master/src/2400/2423.poti)
-- [x]  [2424](https://www.beecrowd.com.br/judge/pt/problems/view/2424) - [Tira-teima](https://github.com/potigol/beecrowd/blob/master/src/2400/2424.poti)
-- [x]  [2427](https://www.beecrowd.com.br/judge/pt/problems/view/2427) - [Chocolate](https://github.com/potigol/beecrowd/blob/master/src/2400/2427.poti)
-- [x]  [2434](https://www.beecrowd.com.br/judge/pt/problems/view/2434) - [Saldo do Vovô](https://github.com/potigol/beecrowd/blob/master/src/2400/2434.poti)
-- [x]  [2435](https://www.beecrowd.com.br/judge/pt/problems/view/2435) - [Corrida](https://github.com/potigol/beecrowd/blob/master/src/2400/2435.poti)
-- [x]  [2437](https://www.beecrowd.com.br/judge/pt/problems/view/2437) - [Distância de Manhattan](https://github.com/potigol/beecrowd/blob/master/src/2400/2437.poti)
-- [x]  [2441](https://www.beecrowd.com.br/judge/pt/problems/view/2441) - [Janela](https://github.com/potigol/beecrowd/blob/master/src/2400/2441.poti)
-- [x]  [2443](https://www.beecrowd.com.br/judge/pt/problems/view/2443) - [Soma de Frações](https://github.com/potigol/beecrowd/blob/master/src/2400/2443.poti)
-- [x]  [2444](https://www.beecrowd.com.br/judge/pt/problems/view/2444) - [Volume da TV](https://github.com/potigol/beecrowd/blob/master/src/2400/2444.poti)
-- [x]  [2449](https://www.beecrowd.com.br/judge/pt/problems/view/2449) - [Fechadura](https://github.com/potigol/beecrowd/blob/master/src/2400/2449.poti)
-- [x]  [2451](https://www.beecrowd.com.br/judge/pt/problems/view/2451) - [PacMan](https://github.com/potigol/beecrowd/blob/master/src/2400/2451.poti)
-- [x]  [2453](https://www.beecrowd.com.br/judge/pt/problems/view/2453) - [Língua do P](https://github.com/potigol/beecrowd/blob/master/src/2400/2453.poti)
-- [x]  [2454](https://www.beecrowd.com.br/judge/pt/problems/view/2454) - [Flíper](https://github.com/potigol/beecrowd/blob/master/src/2400/2454.poti)
-- [x]  [2455](https://www.beecrowd.com.br/judge/pt/problems/view/2455) - [Gangorra](https://github.com/potigol/beecrowd/blob/master/src/2400/2455.poti)
-- [x]  [2456](https://www.beecrowd.com.br/judge/pt/problems/view/2456) - [Cartas](https://github.com/potigol/beecrowd/blob/master/src/2400/2456.poti)
-- [x]  [2457](https://www.beecrowd.com.br/judge/pt/problems/view/2457) - [Letras](https://github.com/potigol/beecrowd/blob/master/src/2400/2457.poti)
-- [x]  [2460](https://www.beecrowd.com.br/judge/pt/problems/view/2460) - [Fila](https://github.com/potigol/beecrowd/blob/master/src/2400/2460.poti)
-- [x]  [2462](https://www.beecrowd.com.br/judge/pt/problems/view/2462) - [Voo](https://github.com/potigol/beecrowd/blob/master/src/2400/2462.poti)
-- [x]  [2463](https://www.beecrowd.com.br/judge/pt/problems/view/2463) - [Corredor](https://github.com/potigol/beecrowd/blob/master/src/2400/2463.poti)
-- [x]  [2464](https://www.beecrowd.com.br/judge/pt/problems/view/2464) - [Decifra](https://github.com/potigol/beecrowd/blob/master/src/2400/2464.poti)
-- [x]  [2465](https://www.beecrowd.com.br/judge/pt/problems/view/2465) - [Passa Bolinha](https://github.com/potigol/beecrowd/blob/master/src/2400/2465.poti)
-- [x]  [2466](https://www.beecrowd.com.br/judge/pt/problems/view/2466) - [Sinuca](https://github.com/potigol/beecrowd/blob/master/src/2400/2466.poti)
-- [x]  [2469](https://www.beecrowd.com.br/judge/pt/problems/view/2469) - [Notas](https://github.com/potigol/beecrowd/blob/master/src/2400/2469.poti)
-- [x]  [2473](https://www.beecrowd.com.br/judge/pt/problems/view/2473) - [Loteria](https://github.com/potigol/beecrowd/blob/master/src/2400/2473.poti)
-- [x]  [2830](https://www.beecrowd.com.br/judge/pt/problems/view/2830) - [Copa](https://github.com/potigol/beecrowd/blob/master/src/2800/2830.poti)
-- [x]  [2831](https://www.beecrowd.com.br/judge/pt/problems/view/2831) - [Pesos](https://github.com/potigol/beecrowd/blob/master/src/2800/2831.poti)
-- [x]  [2833](https://www.beecrowd.com.br/judge/pt/problems/view/2833) - [Campeonato](https://github.com/potigol/beecrowd/blob/master/src/2800/2833.poti)
-- [x]  [2835](https://www.beecrowd.com.br/judge/pt/problems/view/2835) - [Elevador](https://github.com/potigol/beecrowd/blob/master/src/2800/2835.poti)
-- [x]  [3048](https://www.beecrowd.com.br/judge/pt/problems/view/3048) - [Sequência Secreta](https://github.com/potigol/beecrowd/blob/master/src/3000/3048.poti)
-- [x]  [3050](https://www.beecrowd.com.br/judge/pt/problems/view/3050) - [Distância Entre Amigos](https://github.com/potigol/beecrowd/blob/master/src/3000/3050.poti)
-- [x]  [3056](https://www.beecrowd.com.br/judge/pt/problems/view/3056) - [Ponto do Meio](https://github.com/potigol/beecrowd/blob/master/src/3000/3056.poti)
-- [x]  [3058](https://www.beecrowd.com.br/judge/pt/problems/view/3058) - [Supermercado](https://github.com/potigol/beecrowd/blob/master/src/3000/3058.poti)
-- [x]  [3059](https://www.beecrowd.com.br/judge/pt/problems/view/3059) - [Pares de Números](https://github.com/potigol/beecrowd/blob/master/src/3000/3059.poti)
-- [x]  [3060](https://www.beecrowd.com.br/judge/pt/problems/view/3060) - [Parcelamento Sem Juros](https://github.com/potigol/beecrowd/blob/master/src/3000/3060.poti)
+
 
 ## Problemas não resolvidos
-
+- [ ]  [2187](https://www.beecrowd.com.br/judge/pt/problems/view/2187) - Bits Trocados
+- [ ]  [2188](https://www.beecrowd.com.br/judge/pt/problems/view/2188) - Macaco-prego
+- [ ]  [2189](https://www.beecrowd.com.br/judge/pt/problems/view/2189) - Quermesse
+- [ ]  [2247](https://www.beecrowd.com.br/judge/pt/problems/view/2247) - Cofrinhos da Vó Vitória
+- [ ]  [2251](https://www.beecrowd.com.br/judge/pt/problems/view/2251) - Torres de Hanói
+- [ ]  [2286](https://www.beecrowd.com.br/judge/pt/problems/view/2286) - Par ou Ímpar
+- [ ]  [2293](https://www.beecrowd.com.br/judge/pt/problems/view/2293) - Campo de Minhocas
+- [ ]  [2295](https://www.beecrowd.com.br/judge/pt/problems/view/2295) - Frota de Tá i
+- [ ]  [2297](https://www.beecrowd.com.br/judge/pt/problems/view/2297) - Bafo
+- [ ]  [2322](https://www.beecrowd.com.br/judge/pt/problems/view/2322) - Peça Perdida
+- [ ]  [2327](https://www.beecrowd.com.br/judge/pt/problems/view/2327) - Quadrados
+- [ ]  [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - Chocolate
+- [ ]  [2339](https://www.beecrowd.com.br/judge/pt/problems/view/2339) - Aviões de Papel
+- [ ]  [2341](https://www.beecrowd.com.br/judge/pt/problems/view/2341) - Número de Envelopes
+- [ ]  [2342](https://www.beecrowd.com.br/judge/pt/problems/view/2342) - Overflow
+- [ ]  [2369](https://www.beecrowd.com.br/judge/pt/problems/view/2369) - Conta de Água
+- [ ]  [2373](https://www.beecrowd.com.br/judge/pt/problems/view/2373) - Garçom
+- [ ]  [2374](https://www.beecrowd.com.br/judge/pt/problems/view/2374) - Pneu
+- [ ]  [2375](https://www.beecrowd.com.br/judge/pt/problems/view/2375) - Sede 
+- [ ]  [2376](https://www.beecrowd.com.br/judge/pt/problems/view/2376) - Copa do Mundo
+- [ ]  [2377](https://www.beecrowd.com.br/judge/pt/problems/view/2377) - Pedágio
+- [ ]  [2378](https://www.beecrowd.com.br/judge/pt/problems/view/2378) - Elevador
+- [ ]  [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - Lista de Chamada
+- [ ]  [2382](https://www.beecrowd.com.br/judge/pt/problems/view/2382) - Sede  Marciano
+- [ ]  [2386](https://www.beecrowd.com.br/judge/pt/problems/view/2386) - Telescópio
+- [ ]  [2388](https://www.beecrowd.com.br/judge/pt/problems/view/2388) - Tacógrafo
+- [ ]  [2389](https://www.beecrowd.com.br/judge/pt/problems/view/2389) - Floresta
+- [ ]  [2390](https://www.beecrowd.com.br/judge/pt/problems/view/2390) - Escada Rolante
+- [ ]  [2394](https://www.beecrowd.com.br/judge/pt/problems/view/2394) - Corrida 1
+- [ ]  [2395](https://www.beecrowd.com.br/judge/pt/problems/view/2395) - Transporte de Contêineres
+- [ ]  [2396](https://www.beecrowd.com.br/judge/pt/problems/view/2396) - Corrida
+- [ ]  [2397](https://www.beecrowd.com.br/judge/pt/problems/view/2397) - Triângulos
+- [ ]  [2399](https://www.beecrowd.com.br/judge/pt/problems/view/2399) - Campo Minado
+- [ ]  [2402](https://www.beecrowd.com.br/judge/pt/problems/view/2402) - Selos
+- [ ]  [2408](https://www.beecrowd.com.br/judge/pt/problems/view/2408) - Vice-Campeão
+- [ ]  [2409](https://www.beecrowd.com.br/judge/pt/problems/view/2409) - Colchão
+- [ ]  [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) - Busca na Internet
+- [ ]  [2414](https://www.beecrowd.com.br/judge/pt/problems/view/2414) - Desafio do Maior Número
+- [ ]  [2416](https://www.beecrowd.com.br/judge/pt/problems/view/2416) - Corrida
+- [ ]  [2417](https://www.beecrowd.com.br/judge/pt/problems/view/2417) - Campeonato
+- [ ]  [2418](https://www.beecrowd.com.br/judge/pt/problems/view/2418) - Carnaval
+- [ ]  [2421](https://www.beecrowd.com.br/judge/pt/problems/view/2421) - Álbum de Fotos
+- [ ]  [2422](https://www.beecrowd.com.br/judge/pt/problems/view/2422) - Soma das Casas
+- [ ]  [2423](https://www.beecrowd.com.br/judge/pt/problems/view/2423) - Receita de Bolo
+- [ ]  [2424](https://www.beecrowd.com.br/judge/pt/problems/view/2424) - Tira-teima
+- [ ]  [2427](https://www.beecrowd.com.br/judge/pt/problems/view/2427) - Chocolate
+- [ ]  [2434](https://www.beecrowd.com.br/judge/pt/problems/view/2434) - Saldo do Vovô
+- [ ]  [2435](https://www.beecrowd.com.br/judge/pt/problems/view/2435) - Corrida
+- [ ]  [2437](https://www.beecrowd.com.br/judge/pt/problems/view/2437) - Distância de Manhattan
+- [ ]  [2441](https://www.beecrowd.com.br/judge/pt/problems/view/2441) - Janela
+- [ ]  [2443](https://www.beecrowd.com.br/judge/pt/problems/view/2443) - Soma de Frações
+- [ ]  [2444](https://www.beecrowd.com.br/judge/pt/problems/view/2444) - Volume da TV
+- [ ]  [2449](https://www.beecrowd.com.br/judge/pt/problems/view/2449) - Fechadura
+- [ ]  [2451](https://www.beecrowd.com.br/judge/pt/problems/view/2451) - PacMan
+- [ ]  [2453](https://www.beecrowd.com.br/judge/pt/problems/view/2453) - Língua do P
+- [ ]  [2454](https://www.beecrowd.com.br/judge/pt/problems/view/2454) - Flíper
+- [ ]  [2455](https://www.beecrowd.com.br/judge/pt/problems/view/2455) - Gangorra
+- [ ]  [2456](https://www.beecrowd.com.br/judge/pt/problems/view/2456) - Cartas
+- [ ]  [2457](https://www.beecrowd.com.br/judge/pt/problems/view/2457) - Letras
+- [ ]  [2460](https://www.beecrowd.com.br/judge/pt/problems/view/2460) - Fila
+- [ ]  [2462](https://www.beecrowd.com.br/judge/pt/problems/view/2462) - Voo
+- [ ]  [2463](https://www.beecrowd.com.br/judge/pt/problems/view/2463) - Corredor
+- [ ]  [2464](https://www.beecrowd.com.br/judge/pt/problems/view/2464) - Decifra
+- [ ]  [2465](https://www.beecrowd.com.br/judge/pt/problems/view/2465) - Passa Bolinha
+- [ ]  [2466](https://www.beecrowd.com.br/judge/pt/problems/view/2466) - Sinuca
+- [ ]  [2469](https://www.beecrowd.com.br/judge/pt/problems/view/2469) - Notas
+- [ ]  [2473](https://www.beecrowd.com.br/judge/pt/problems/view/2473) - Loteria
+- [ ]  [2830](https://www.beecrowd.com.br/judge/pt/problems/view/2830) - Copa
+- [ ]  [2831](https://www.beecrowd.com.br/judge/pt/problems/view/2831) - Pesos
+- [ ]  [2833](https://www.beecrowd.com.br/judge/pt/problems/view/2833) - Campeonato
+- [ ]  [2835](https://www.beecrowd.com.br/judge/pt/problems/view/2835) - Elevador
+- [ ]  [3048](https://www.beecrowd.com.br/judge/pt/problems/view/3048) - Sequência Secreta
+- [ ]  [3050](https://www.beecrowd.com.br/judge/pt/problems/view/3050) - Distância Entre Amigos
+- [ ]  [3056](https://www.beecrowd.com.br/judge/pt/problems/view/3056) - Ponto do Meio
+- [ ]  [3058](https://www.beecrowd.com.br/judge/pt/problems/view/3058) - Supermercado
+- [ ]  [3059](https://www.beecrowd.com.br/judge/pt/problems/view/3059) - Pares de Númerosi
+- [ ]  [3060](https://www.beecrowd.com.br/judge/pt/problems/view/3060) - Parcelamento Sem Juros
 - [ ]  [2191](https://www.beecrowd.com.br/judge/pt/problems/view/2191) - Saldo de Gols
 - [ ]  [2227](https://www.beecrowd.com.br/judge/pt/problems/view/2227) - Aeroporto
 - [ ]  [2228](https://www.beecrowd.com.br/judge/pt/problems/view/2228) - Caça ao Tesouro
@@ -136,13 +136,13 @@
 - [ ]  [2387](https://www.beecrowd.com.br/judge/pt/problems/view/2387) - Dentista
 - [ ]  [2391](https://www.beecrowd.com.br/judge/pt/problems/view/2391) - Progressões Aritméticas
 - [ ]  [2392](https://www.beecrowd.com.br/judge/pt/problems/view/2392) - Pulo do Sapo
-- [ ]  [2393](https://www.beecrowd.com.br/judge/pt/problems/view/2393) - O Mar não está para Peixe
+- [ ]  [2393](https://www.beecrowd.com.br/judge/pt/problems/view/2393) - O Mar não está para Pei e
 - [ ]  [2398](https://www.beecrowd.com.br/judge/pt/problems/view/2398) - Caça ao Tesouro
 - [ ]  [2400](https://www.beecrowd.com.br/judge/pt/problems/view/2400) - Balé
 - [ ]  [2401](https://www.beecrowd.com.br/judge/pt/problems/view/2401) - Calculadora
 - [ ]  [2403](https://www.beecrowd.com.br/judge/pt/problems/view/2403) - Escalonamento Ótimo
 - [ ]  [2405](https://www.beecrowd.com.br/judge/pt/problems/view/2405) - Colorindo
-- [ ]  [2406](https://www.beecrowd.com.br/judge/pt/problems/view/2406) - Expressões
+- [ ]  [2406](https://www.beecrowd.com.br/judge/pt/problems/view/2406) - E pressões
 - [ ]  [2407](https://www.beecrowd.com.br/judge/pt/problems/view/2407) - Quadrado Mágico
 - [ ]  [2410](https://www.beecrowd.com.br/judge/pt/problems/view/2410) - Frequencia na Aula
 - [ ]  [2411](https://www.beecrowd.com.br/judge/pt/problems/view/2411) - O Tabuleiro Esburacado

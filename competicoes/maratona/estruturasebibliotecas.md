@@ -4,9 +4,8 @@
 
 ## Problemas resolvidos
 
-- [x]  [1430](https://www.beecrowd.com.br/judge/pt/problems/view/1430) - [Composição de Jingles](https://github.com/potigol/beecrowd/blob/master/src/1400/1430.poti)
-
 ## Problemas não resolvidos
+- [ ]  [1430](https://www.beecrowd.com.br/judge/pt/problems/view/1430) - Composição de Jingles
 
 - [ ]  [1274](https://www.beecrowd.com.br/judge/pt/problems/view/1274) - P-Networks
 - [ ]  [1301](https://www.beecrowd.com.br/judge/pt/problems/view/1301) - Produto do Intervalo
