@@ -12,17 +12,17 @@
 - [ ]  [3409](https://www.beecrowd.com.br/judge/pt/problems/view/3409) - Júnior, como seu tio come? *Ad-Hoc*
 - [ ]  [3410](https://www.beecrowd.com.br/judge/pt/problems/view/3410) - Kebra Cabeça *Ad-Hoc*
 - [ ]  [3411](https://www.beecrowd.com.br/judge/pt/problems/view/3411) - Lá vai tinta! *Ad-Hoc*
-- [x]  [3412](https://www.beecrowd.com.br/judge/pt/problems/view/3412) - [Avaliações de Algoritmos](https://github.com/potigol/beecrowd/blob/master/src/3400/3412.poti) *Ad-Hoc*
+- [x]  [3412](https://www.beecrowd.com.br/judge/pt/problems/view/3412) - [Avaliações de Algoritmos](https://github.com/tgn76ok/BeecrowdResolvido/blob/main/Resolvidos/src/3400/Avalia%C3%A7%C3%B5es%20de%20Algoritmos.py) *Ad-Hoc*
 - [ ]  [3413](https://www.beecrowd.com.br/judge/pt/problems/view/3413) - Baita Desafio Complexo *Ad-Hoc*
 - [ ]  [3414](https://www.beecrowd.com.br/judge/pt/problems/view/3414) - Chimambu *Ad-Hoc*
 - [ ]  [3415](https://www.beecrowd.com.br/judge/pt/problems/view/3415) - Ditados *Ad-Hoc*
-- [x]  [3416](https://www.beecrowd.com.br/judge/pt/problems/view/3416) - [Eu Quero Cafééé](https://github.com/potigol/beecrowd/blob/master/src/3400/3416.poti) *Ad-Hoc*
+- [x]  [3416](https://www.beecrowd.com.br/judge/pt/problems/view/3416) - [Eu Quero Cafééé](https://github.com/tgn76ok/BeecrowdResolvido/blob/main/Resolvidos/src/3400/Eu%20Quero%20Caf%C3%A9%C3%A9%C3%A9.py) *Ad-Hoc*
 - [ ]  [3417](https://www.beecrowd.com.br/judge/pt/problems/view/3417) - Falcatrua *Ad-Hoc*
 - [ ]  [3418](https://www.beecrowd.com.br/judge/pt/problems/view/3418) - La Chaleur *Ad-Hoc*
 - [ ]  [3419](https://www.beecrowd.com.br/judge/pt/problems/view/3419) - Kimi Räikkönen *Ad-Hoc*
-- [ ]  [3420](https://www.beecrowd.com.br/judge/pt/problems/view/3420) - House of Cards *Ad-Hoc*
+- [x]  [3420](https://www.beecrowd.com.br/judge/pt/problems/view/3420) - [House of Cards](https://github.com/tgn76ok/BeecrowdResolvido/blob/main/Resolvidos/src/3400/House%20of%20Cards.py) *Ad-Hoc*
 - [ ]  [3421](https://www.beecrowd.com.br/judge/pt/problems/view/3421) - Infinita String de Dígitos *Ad-Hoc*
-- [x]  [3422](https://www.beecrowd.com.br/judge/pt/problems/view/3422) - [José e a Súmula](https://github.com/potigol/beecrowd/blob/master/src/3400/3422.poti) *Ad-Hoc*
+- [x]  [3422](https://www.beecrowd.com.br/judge/pt/problems/view/3422) - [José e a Súmula](https://github.com/tgn76ok/BeecrowdResolvido/blob/main/Resolvidos/src/3400/Jos%C3%A9%20e%20a%20S%C3%BAmula.py) *Ad-Hoc*
 - [ ]  [3423](https://www.beecrowd.com.br/judge/pt/problems/view/3423) - Gostos Peculiares *Ad-Hoc*
 - [ ] ~~xxxx~~
 - [ ] ~~xxxx~~
